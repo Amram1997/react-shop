@@ -8,13 +8,13 @@ url[https://fakestoreapi.com/]
 
 ### Source files
 
-1. assets
-2. components
-3. function
-4. requests
-5. utils
-6. App.js
-7. index.js
+1. (assets)[./src/assets]
+2. (components)[./src/components]
+3. (function)[./src/function]
+4. (requests)[./src/requests]
+5. (utils)[./src/utils]
+6. (App.js)[./App.js]
+7. (index.js)[./index.js]
 
 #### Home Page
 
@@ -30,4 +30,4 @@ url[https://fakestoreapi.com/]
 
 #### Single Product Page
 
-<img src="./src/imageGithub/product1.png" width="600px" height="500px">
+<img src="./src/imageGithub/single.png" width="600px" height="500px">
