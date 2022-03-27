@@ -8,13 +8,13 @@ url[https://fakestoreapi.com/]
 
 ### Source files
 
-1. (assets)[./src/assets]
-2. (components)[./src/components]
-3. (function)[./src/function]
-4. (requests)[./src/requests]
-5. (utils)[./src/utils]
-6. (App.js)[./App.js]
-7. (index.js)[./index.js]
+1. [assets](./src/assets)
+2. [components](./src/components)
+3. [function](./src/function)
+4. [requests](./src/requests)
+5. [utils](./src/utils)
+6. [App.js](./App.js)
+7. [index.js](./index.js)
 
 #### Home Page
 
